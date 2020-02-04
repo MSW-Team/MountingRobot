@@ -1,0 +1,911 @@
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190227\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190228B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190301B\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190302A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190304A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190305\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190306A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190307A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 20190308\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.exe
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.exe
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\HslCommunication.dll
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MyLog.dll
+F:\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\RCAPINet.dll
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+F:\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903011B\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903013A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903014A\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903015\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903018\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\HslCommunication.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MyLog.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\三爪机器人\爱普生版本三爪\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\other\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-爱普生版三爪MountingRobot - 19010701-201903020\MountingRobot - 201903020\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmTask.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-20191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191122-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191213-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191218-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191220-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191230-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\CS-展会贴片机器人-M19102711-191231-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmProduct.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200104-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmFlash.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmFlash.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmProduct.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200111-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe.config
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\MountingRobot.pdb
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\bin\x64\Debug\RCAPINet.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csprojAssemblyReference.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmAutoRun.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmFlash.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmInfo.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIniRobot.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmIOShow.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLog.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.Properties.Resources.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmManual.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmParameSet.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmLogin.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmProduct.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmRobotTeach.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.UI.FrmMain.zh-CN.resources
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.GenerateResource.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CoreCompileInputs.cache
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\zh-CN\MountingRobot.resources.dll
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.csproj.CopyComplete
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.exe
+E:\datum\program\展会\CS-展会贴片机器人-M19102711-200114-未完成-胡波\MountingRobot\MountingRobot\obj\x64\Debug\MountingRobot.pdb
